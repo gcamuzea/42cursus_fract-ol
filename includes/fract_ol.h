@@ -6,7 +6,7 @@
 /*   By: gucamuze <gucamuze@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/10 16:22:50 by gucamuze          #+#    #+#             */
-/*   Updated: 2022/01/02 18:22:10 by gucamuze         ###   ########.fr       */
+/*   Updated: 2022/01/03 22:27:25 by gucamuze         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,8 +17,8 @@
 # include <math.h>
 
 # define ITER 80
-# define W_LEN 1280
-# define W_HGT 720
+# define W_LEN 1920
+# define W_HGT 1080
 
 typedef struct s_mlx_img {
 	void		*img;
