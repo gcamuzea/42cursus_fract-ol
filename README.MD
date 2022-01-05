@@ -1,6 +1,6 @@
-Fract-ol
+# Fract-ol
 
-Project from 42 asking you to use a proprietary graphics library to create a program displaying some fractals.
+Project from 42 asking you to use a proprietary graphics library to create a program displaying some fractals, written in C. Compiles on linux architectures only.
 
 Usage: ./fract-ol [mandelbrot], [julia [imaginary number] [real number]], [burning_ship]
 
